@@ -5,7 +5,7 @@ Quick Description...
 ## Team 
 <_each team member clones repo and then edits/replace with their name below_>
 - Brandon Faunce
-- MEMBER02
+- Mason Bausenwein
 - MEMBER03
 - MEMBER04
 
