@@ -7,7 +7,7 @@ Quick Description...
 - Brandon Faunce
 - Mason Bausenwein
 - Haroon Aziz 
-- Max Collins
+- Dakota Fedor
 
 
 ## Prerequisites  <_add anything else that applies_>
