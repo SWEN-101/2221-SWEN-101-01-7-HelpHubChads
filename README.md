@@ -6,7 +6,7 @@ Quick Description...
 <_each team member clones repo and then edits/replace with their name below_>
 - Brandon Faunce
 - Mason Bausenwein
-- MEMBER03
+- Haroon Aziz 
 - MEMBER04
 
 
