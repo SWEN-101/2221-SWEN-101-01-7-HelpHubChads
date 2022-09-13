@@ -8,6 +8,7 @@ Quick Description...
 - Mason Bausenwein
 - Haroon Aziz 
 - Dakota Fedor
+- Max Collins
 
 
 ## Prerequisites  <_add anything else that applies_>
