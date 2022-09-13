@@ -7,7 +7,7 @@ Quick Description...
 - Brandon Faunce
 - Mason Bausenwein
 - Haroon Aziz 
-- MEMBER04
+- Max Collins
 
 
 ## Prerequisites  <_add anything else that applies_>
