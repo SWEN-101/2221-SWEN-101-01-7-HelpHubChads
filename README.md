@@ -1,6 +1,9 @@
 # Project Name: HelpHub - Website
 
-Quick Description...
+We have observed that many people within communities around the world have a burning desire to help the members of their community, but oftentimes they do not have the time or the energy to seek out such opportunities. We have come up with a new app to fix this issue, Help Hub. Help Hub is created to encourage people to engage in their community and help each other.
+
+Help Hub will revolutionize the way advertising for local volunteering is approached. Everyone can use Help Hub, from citizens to churches, to Boy Scouts, and even businesses. We envision two types of people who will use this app: the volunteers and the organizers. Volunteers can use the app to find events in the area to volunteer for using various search filters, and the organizers set up these events with useful information, such as time, date, description of the event, name, and location.
+
   
 ## Team 
 <_each team member clones repo and then edits/replace with their name below_>
