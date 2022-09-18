@@ -42,6 +42,6 @@ If any shortcomings, make clear what these are and where they are located.
 
 ## License
 
-<_replace with the type of license you will use for the project_> e.g. MIT License
+GNU GENERAL PUBLIC LICENSE v3.0
 
 See LICENSE for details.
