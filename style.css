@@ -60,6 +60,7 @@
     border: 1px solid black;
     font-family: Tahoma;
     border-radius: 14px;
+    display: inline-block;
 }
 .opportunity-image {
     margin: 10px;
@@ -85,4 +86,10 @@ span {
 h2 {
     margin-top: 12px;
     margin-bottom: 12px;
+}
+.scrollbar {
+    height: 500px; 
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
 }
