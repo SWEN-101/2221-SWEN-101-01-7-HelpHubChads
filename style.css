@@ -29,8 +29,18 @@
     height: 90px;
     border: 1px solid black;
     display: flex;
+    align-items: center;
+    justify-content: center;
     line-height: 45px;
     text-align: center;
+}
+
+.profile-picture {
+    order: 5;
+    width: 90px;
+    height: 90px;
+    margin-left: 50px;
+    border-radius: 50%;
 }
 
 .header-button {
