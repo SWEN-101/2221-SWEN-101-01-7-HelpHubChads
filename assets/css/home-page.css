@@ -22,7 +22,6 @@
     justify-content: space-around;
     row-gap: 50px;
 }
-
 .username-box {
     order: 4;
     width: 300px;
@@ -34,7 +33,6 @@
     line-height: 45px;
     text-align: center;
 }
-
 .profile-picture {
     order: 5;
     width: 90px;
@@ -42,7 +40,6 @@
     margin-left: 50px;
     border-radius: 50%;
 }
-
 .header-button {
     width: 90px;
     height: 90px;
@@ -99,7 +96,6 @@ h2 {
     overflow-y: hidden;
     white-space: nowrap;
 }
-
 h1 {
     font-size: 80px;
     margin: 0;
