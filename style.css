@@ -1,7 +1,7 @@
 .header {
     display:flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     row-gap: 100px;
     border: 1px solid black;
@@ -14,33 +14,75 @@
     border: 1px solid black;
     font-size: large;
 }
-.top-box {
+.button-box {
     order: 3;
-    width: 80px;
-    height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    row-gap: 50px;
+}
+
+.username-box {
+    order: 4;
+    width: 300px;
+    height: 90px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 45px;
+    text-align: center;
+}
+
+.profile-picture {
+    order: 5;
+    width: 90px;
+    height: 90px;
+    margin-left: 50px;
+    border-radius: 50%;
+}
+
+.header-button {
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
     border: 1px solid black;
     background-color: #ddd;
+    text-align: center;
+    margin-left: 15px;
+
 }
 .opportunity-card {
     height: 350px;
     width: 300px;
     background-color: #ddd;
     border: 1px solid black;
+    font-family: Tahoma;
+    border-radius: 14px;
 }
 .opportunity-image {
     margin: 10px;
+    border-radius: 10px;
 }
 .opportunity-name {
     text-align: center;
 }
 .opportunity-categories {
     margin: 10px;
+    line-height: 30px;
 }
 .category {
-    background-color: #aaa;
+    background-color: rgb(56, 203, 102);
 }
 span {
     white-space: nowrap;
     padding: 4px;
-    margin: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 4px;
+}
+h2 {
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
