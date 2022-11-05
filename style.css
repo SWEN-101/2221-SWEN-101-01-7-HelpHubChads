@@ -61,6 +61,7 @@
     font-family: Tahoma;
     border-radius: 14px;
     display: inline-block;
+    margin-right: 10px;
 }
 .opportunity-image {
     margin: 10px;
@@ -72,6 +73,8 @@
 .opportunity-categories {
     margin: 10px;
     line-height: 30px;
+    width: 280px;
+    white-space: normal;
 }
 .category {
     background-color: rgb(56, 203, 102);
@@ -88,7 +91,8 @@ h2 {
     margin-bottom: 12px;
 }
 .scrollbar {
-    height: 500px; 
+    margin-top: 20px;
+    height: 370px; 
     overflow-x: scroll;
     overflow-y: hidden;
     white-space: nowrap;
