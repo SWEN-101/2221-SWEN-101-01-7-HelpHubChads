@@ -76,3 +76,8 @@ span {
     padding: 4px;
     margin: 4px;
 }
+
+h1 {
+    font-size: 80px;
+    margin: 0;
+}
