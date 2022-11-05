@@ -58,23 +58,40 @@
     width: 300px;
     background-color: #ddd;
     border: 1px solid black;
+    font-family: Tahoma;
+    border-radius: 14px;
+    display: inline-block;
 }
 .opportunity-image {
     margin: 10px;
+    border-radius: 10px;
 }
 .opportunity-name {
     text-align: center;
 }
 .opportunity-categories {
     margin: 10px;
+    line-height: 30px;
 }
 .category {
-    background-color: #aaa;
+    background-color: rgb(56, 203, 102);
 }
 span {
     white-space: nowrap;
     padding: 4px;
-    margin: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 4px;
+}
+h2 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.scrollbar {
+    height: 500px; 
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
 }
 
 h1 {
