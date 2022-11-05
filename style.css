@@ -53,3 +53,26 @@
     margin-left: 15px;
 
 }
+.opportunity-card {
+    height: 350px;
+    width: 300px;
+    background-color: #ddd;
+    border: 1px solid black;
+}
+.opportunity-image {
+    margin: 10px;
+}
+.opportunity-name {
+    text-align: center;
+}
+.opportunity-categories {
+    margin: 10px;
+}
+.category {
+    background-color: #aaa;
+}
+span {
+    white-space: nowrap;
+    padding: 4px;
+    margin: 4px;
+}
