@@ -1,0 +1,5 @@
+#main-box {
+    height: 500px; 
+    width:300px; 
+    overflow: scroll;
+}
