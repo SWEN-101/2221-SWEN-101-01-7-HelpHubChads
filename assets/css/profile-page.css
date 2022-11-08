@@ -1,0 +1,163 @@
+.columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 100px;
+    padding: 10px;
+    height: calc(100% - 180px);
+}
+.left-bar {
+    flex: 0.6;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.right-bar {
+    flex: 0.4;
+    flex-direction: column;
+    height: 100%;
+}
+.central-profile {
+    flex: 5;
+    height: 300px;
+}
+.profile-desc {
+    flex: 3;
+}
+.badges {
+    flex: 2;
+}
+.volunteer-overview {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.opportunities-container {
+    height: calc(100% - 121px);
+}
+.volunteer-opportunities {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-top: 20px;
+    height: 100%;
+}
+.volunteer-card {
+    background-color: #677C67;
+    height: 200px;
+    margin-bottom: 12px;
+    border-radius: 14px;
+    display: flex;
+    flex-direction: row;
+}
+.volunteer-opportunities::-webkit-scrollbar {
+    display: none;
+}
+.volunteer-image {
+    border-radius: 14px 0 0 14px;
+}
+.volunteer-name {
+    font-size: 20px;
+}
+.volunteer-other {
+    margin-left: 10px;
+}
+.volunteer-hours {
+    font-size: 16px;
+}
+.volunteer-name h2 {
+    margin-bottom: 0;
+}
+.volunteer-hours h2 {
+    margin-top: 4px;
+    margin-left: 20px;
+}
+body {
+    overflow-y: hidden;
+}
+.profile-columns {
+    display: flex;
+    flex-direction: row;
+}
+.profile-inpicture {
+    z-index: -10;
+}
+.profile-size {
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+    border-radius: 50%;
+}
+.report-button {
+    display: block;
+    height: 45px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: #ddd;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-top: 15px;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 235px;
+    border: 1px solid black;
+    z-index: 10;
+}
+.contacts-button {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid black;
+    background-color: #ddd;
+    text-align: center;
+    margin-right: 15px;
+}
+.profile-info {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.profile-name {
+    font-size: 50px;
+    font-weight: bold;
+}
+.profile-organization {
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #677C67;
+}
+.profile-location {
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #677C67;
+}
+.profile-contacts {
+    margin-top: 20px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.profile-desc {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 200px;
+    margin-right: 20px;
+}
+.badges {
+    margin-top: 20px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.badge {
+    margin-right: 15px;
+}
+.badge-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
