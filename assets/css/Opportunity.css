@@ -14,6 +14,16 @@
     height: 80px;
     margin-bottom: 10px;
 }
+.opportunity-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+   
+    height: 80px;
+    margin-bottom: 10px;
+}
 .opportunity-card {
     height: 350px;
     width: 300px;
