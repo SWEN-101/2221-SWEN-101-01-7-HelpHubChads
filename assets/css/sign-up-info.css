@@ -1,0 +1,33 @@
+.search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.search-header {
+    order: 0;
+    text-align: center;
+}
+.search-button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.search-date-container {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.search-date-button {
+    width: 245px;
+    height: 50px;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.search-button {
+    width: 500px;
+    height: 50px;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+}
